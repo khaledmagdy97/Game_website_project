@@ -7,7 +7,8 @@ var candy_imgs = [
   "url(../IMG/imgs/4.png)",
   "url(../IMG/imgs/5.png)",
   "url(../IMG/imgs/6.png)",
-];
+];  
+
 var candyDraggedImg;
 var candyDroppedOnImg;
 var candyDraggedId;
